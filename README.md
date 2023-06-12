@@ -59,6 +59,10 @@ console.log(getCategoryPath(categories, 'category5')); // should output: '/categ
 
 # Solution
 
+You can use this function to find the path of a category within the provided categories array. The function takes in two parameters: categories (the array of category objects) and categoryName (the name of the category you want to find the path for). It returns the path as a string.
+
+To use this function, you need to define the categories array separately, and then call getCategoryPath with the appropriate arguments.
+
 Please remind, the solution can also be seen live and tested inside the attached HTML file provided in this repository
 
 ```
