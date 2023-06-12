@@ -75,7 +75,7 @@
         
           <span class="function">const</span> traverseCategories = (<span class="parameter">currentCategories</span>, <span class="parameter">currentPath</span>) =&gt; {
             <span class="keyword">for</span> (<span class="keyword">const</span> category <span class="keyword">of</span> <span class="parameter">currentCategories</span>) {
-              <span class="keyword">const</span> newPath = <span class="string">`${currentPath}/`</span><span class="operator">+</span><span class="parameter">category.name</span>;
+                            <span class="keyword">const</span> newPath = <span class="string">`${currentPath}/${category.name}`</span>/${category.name};
         
               <span class="keyword">if</span> (<span class="parameter">category.name</span> === <span class="parameter">categoryName</span>) {
                 <span class="parameter">path</span> = <span class="parameter">newPath</span>;
