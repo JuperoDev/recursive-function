@@ -31,6 +31,8 @@ const categories = [
 ];
 ```
 
+
+
 The task we have to solve is to Implement this function:
 
 ```
@@ -41,6 +43,8 @@ const getCategoryPath = (categories, categoryName) => {
     return path;
 };
 ```
+
+
 
 Expexted outputs should be
 
