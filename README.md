@@ -56,7 +56,8 @@ console.log(getCategoryPath(categories, 'category5')); // should output: '/categ
 
 <br>
 <br>
-## Solution
+
+# Solution
 
 Please remind, the solution can also be seen live and tested inside the attached HTML file provided in this repository
 
