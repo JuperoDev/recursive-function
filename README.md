@@ -1,4 +1,4 @@
-# Recursive-function exercice
+# Recursive-function exercise
 
 In this exercise we will solve a recursive function and show it in a HTML file
 
